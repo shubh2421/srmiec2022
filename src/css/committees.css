@@ -260,17 +260,17 @@ p.semibold{
 
 }
 
-/*EWB LOGO*/
+/*EWB LOGO
 .content img {
   height:200px;
      width: 200px;
-     position: absolute;
+     position: relative;
      right: 5px;
      top:1750px;
     }
 
  
-/*END*/
+*/
 
 .modal-image img {
   width: 40% !important;
@@ -307,7 +307,8 @@ p.semibold{
 .modal-header {
   border-bottom-color: #eeeeee;
   background-color: #fafafa;
-  height: 60px;
+  height:60px;
+  
 }
 @media (max-width: 900px) {
   .modal-eb img {
