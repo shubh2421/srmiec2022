@@ -35,6 +35,10 @@ body {
   display: block;
   line-height: 1.2;
 }
+
+p.semibold{
+  font-weight: 600;
+}
 .animated-effect-heading span:nth-child(1) {
   font-weight: bolder;
   letter-spacing: 1.5px;
@@ -255,6 +259,19 @@ body {
   border-radius: 50%;
 
 }
+
+/*EWB LOGO*/
+.content img {
+  height:200px;
+     width: 200px;
+     position: absolute;
+     right: 5px;
+     top:1750px;
+    }
+
+ 
+/*END*/
+
 .modal-image img {
   width: 40% !important;
 }

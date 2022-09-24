@@ -177,7 +177,11 @@
     padding-bottom: 0px;
   } */
 }
-
+.content img {
+  height:70px;
+     width: 70px;
+     float:left;
+ }
 /* Gallery */
 body a,
 body a:visited {
