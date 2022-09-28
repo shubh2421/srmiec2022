@@ -343,13 +343,13 @@ p.semibold{
 }
 
 /*EWB MEDIA QUERY*/
-@media (400px <= width <= 900px) {
+@media (320px <= width <= 480px) {
   .content img {
     height:200px;
        width: 200px;
        position: absolute ;
        right: 10px;
-       top:3800px;
+       top:3650px;
       }
   
 }
