@@ -1,6 +1,7 @@
 /********
          TeamPage
 **********/
+
 * ::-webkit-scrollbar {
   display: none;
 }
@@ -10,6 +11,8 @@
 }
 body {
   background: #dbdbdb;
+  font-family: 'Montserrat', sans-serif;
+
 }
 /**************
               Home Page
