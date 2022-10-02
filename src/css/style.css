@@ -10,6 +10,7 @@ body {
   scroll-behavior: smooth;
   font-family: "Lato", sans-serif;
 }
+
 #home {
   height: 100%;
   background: rgba(37, 196, 219, 1);
