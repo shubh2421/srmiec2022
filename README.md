@@ -1,1 +1,1 @@
-# SRMIEC'21 Website
+# SRMIEC'22 Website
